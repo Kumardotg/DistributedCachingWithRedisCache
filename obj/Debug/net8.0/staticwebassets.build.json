@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "16AafjYdgzNz0d/60p4Ln9po25miSUsat4a9ng3OLpw=",
+  "Source": "DistributedCachingWithRedisCache",
+  "BasePath": "_content/DistributedCachingWithRedisCache",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
